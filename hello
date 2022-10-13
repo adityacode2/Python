@@ -1,0 +1,4 @@
+import random
+sequence=[1,4,6,10]
+x = random.choice(sequence)
+print(x)
